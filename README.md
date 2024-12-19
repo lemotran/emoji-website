@@ -1,8 +1,8 @@
-# 🎨 Genmoji - AI Emoji Generator
+# 🎨 Genify - AI Emoji Generator
 
-Transform your ideas and selfies into unique, expressive emojis in seconds! Genmoji brings the power of AI to your fingertips, letting you create custom emojis that perfectly capture your vibe.
+Transform your ideas and selfies into unique, expressive emojis in seconds! Genify brings the power of AI to your fingertips, letting you create custom emojis that perfectly capture your vibe.
 
-## ✨ Why You'll Love Genmoji
+## ✨ Why You'll Love Genify
 
 🤖 **Smart & Simple Creation**
 • Type it or snap a selfie - watch AI transform it into an emoji
@@ -28,6 +28,6 @@ Transform your ideas and selfies into unique, expressive emojis in seconds! Genm
 • Regular updates with new features
 • Express yourself in style
 
-Whether you're spicing up your iMessages, creating the perfect reaction, or expressing yourself uniquely, Genmoji's got your back! Join creative minds making messaging more fun, one emoji at a time.
+Whether you're spicing up your iMessages, creating the perfect reaction, or expressing yourself uniquely, Genify's got your back! Join creative minds making messaging more fun, one emoji at a time.
 
 Download now and let your creativity run wild! 🚀✨
