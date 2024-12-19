@@ -4,11 +4,11 @@ Last Updated: 19/12/2024
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using Genmoji ("the App"), you agree to be bound by these Terms of Use. If you disagree with any part of these terms, you do not have permission to access or use the App.
+By downloading, installing, or using Genify ("the App"), you agree to be bound by these Terms of Use. If you disagree with any part of these terms, you do not have permission to access or use the App.
 
 ## 2. Description of Service
 
-Genmoji is an AI-powered emoji generator that allows users to:
+Genify is an AI-powered emoji generator that allows users to:
 - Create custom emojis from text descriptions
 - Generate emojis from selfie photos
 - Save and organize emoji collections
@@ -35,7 +35,7 @@ You agree not to:
 ## 4. Intellectual Property
 
 ### 4.1 App Ownership
-The App, including its original content, features, and functionality, is owned by Genmoji and is protected by international copyright, trademark, and other intellectual property laws.
+The App, including its original content, features, and functionality, is owned by Genify and is protected by international copyright, trademark, and other intellectual property laws.
 
 ### 4.2 User Content
 - You retain rights to your original content (selfies)
@@ -101,4 +101,4 @@ This App is distributed through Apple's App Store. You agree to comply with all 
 
 The App is not intended for users under the age of 13. Users between 13 and 18 must have parental consent.
 
-By using Genmoji, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use.
+By using Genify, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use.
