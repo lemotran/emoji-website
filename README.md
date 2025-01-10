@@ -6,7 +6,7 @@ Transform your ideas and selfies into unique, expressive emojis in seconds! Geni
 
 🤖 **Smart & Simple Creation**
 • Type it or snap a selfie - watch AI transform it into an emoji
-• High-quality emojis matching Apple's style
+• High-quality emojis
 • Super-fast generation with smart understanding
 • Face-to-emoji magic for personal avatars
 
