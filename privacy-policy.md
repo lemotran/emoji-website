@@ -4,7 +4,7 @@ Last updated: 19/12/2024
 
 ## Introduction
 
-Welcome to Genify ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we handle your information when you use our AI Emoji Generator app.
+Welcome to Xmoji ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we handle your information when you use our AI Emoji Generator app.
 
 ## Information We Collect
 
@@ -35,7 +35,7 @@ We use your information to:
 
 ## iMessage Integration
 
-When using Genify through iMessage:
+When using Xmoji through iMessage:
 - The app functions as an iMessage extension
 - Generated emojis can be shared directly in your conversations
 - Sharing preferences are controlled by your iOS settings
@@ -75,4 +75,4 @@ You can control your data through:
 - In-app privacy settings
 - iMessage sharing preferences
 
-By using Genify, you agree to this privacy policy and our data practices.
+By using Xmoji, you agree to this privacy policy and our data practices.
