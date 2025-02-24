@@ -1,33 +1,44 @@
-# 🎨 Genify - AI Emoji Generator
+# 🎨 Xmoji - AI Emoji Studio
 
-Transform your ideas and selfies into unique, expressive emojis in seconds! Genify brings the power of AI to your fingertips, letting you create custom emojis that perfectly capture your vibe.
+Transform ideas, selfies, and existing emojis into unique creations! Xmoji combines AI magic with creative tools to deliver the ultimate emoji customization experience.
 
-## ✨ Why You'll Love Genify
+## ✨ Why Choose Xmoji?
 
-🤖 **Smart & Simple Creation**
-• Type it or snap a selfie - watch AI transform it into an emoji
-• High-quality emojis
-• Super-fast generation with smart understanding
-• Face-to-emoji magic for personal avatars
+🤖 **Smart Creation Tools**
+• Text-to-emoji & selfie-to-emoji conversion
+• Revolutionary **Emoji Mixer** - combine existing emojis
+• Context-aware AI understands complex combinations
+• Face recognition for perfect personal avatars
+• Batch processing for multiple creations
 
-📱 **Perfect for iMessage**
-• Works seamlessly with iMessage stickers
-• Quick save to your gallery
-• Instant social media sharing
-• Easy access through iMessage
+🔀 **Unique Mix Feature**
+- Combine 2+ emojis to create entirely new designs
+- Preserve favorite elements from each source emoji
+- Smart AI interprets mixed prompts creatively
+- Save hybrid creations to your collection
+- Perfect for meme creation and inside jokes
 
-🌟 **Emoji Collection**
-• Save your favorite creations
-• Organize your emojis
-• Quick access to recent designs
-• Share your unique emojis
+📱 **iMessage Integration**
+• Direct save to Messages app
+• Sticker pack auto-update
+• Optimized resolution for all devices
+• Quick-access recent emojis tray
+• Drag-and-drop to any conversation
 
-🎮 **Fun & Inclusive**
-• Perfect for chats and reactions
-• Diverse styles for everyone
-• Regular updates with new features
-• Express yourself in style
+🎨 **Creative Studio**
+• Edit existing emojis with AI suggestions
+• Organize collections with smart tags
+• Export transparent PNGs for any use
+• Multi-emoji batch operations
+• Version history for creations
 
-Whether you're spicing up your iMessages, creating the perfect reaction, or expressing yourself uniquely, Genify's got your back! Join creative minds making messaging more fun, one emoji at a time.
+🌟 **Premium Advantages**
+• No watermarks on exports
+• Priority generation queue
+• Exclusive mixing styles
+• Early access to new AI models
+• Cloud sync across devices
 
-Download now and let your creativity run wild! 🚀✨
+Whether you're enhancing conversations, creating reaction memes, or building a personal emoji brand, Xmoji puts professional-grade tools in your pocket. Join thousands of creators who choose Xmoji for next-level digital expression.
+
+Download now and start mixing! 🚀✨
