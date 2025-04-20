@@ -40,6 +40,17 @@ When using Xmoji through iMessage:
 - Generated emojis can be shared directly in your conversations
 - Sharing preferences are controlled by your iOS settings
 
+## Facial Data
+
+When you use the Face-to-Emoji feature in our app, you may upload an image containing your face. This section explains how we handle this facial data.
+
+- **Collection:** We collect the face image you upload for the sole purpose of generating an emoji.
+- **Use:** The face image is used to generate a text prompt through an AI image-to-prompt process. This prompt is then used to create an emoji image. The face image is not used for any other purpose.
+- **Storage:** The face image is temporarily stored on our secure servers during the emoji generation process.
+- **Sharing:** We do not share your facial data with any third parties.
+- **Retention:** The face image is retained only for the duration necessary to generate the emoji, which is typically a few seconds. Immediately after the emoji is created, the face image is permanently deleted from our servers.
+- **Consent:** By uploading your face image, you consent to its use for the purpose of generating an emoji as described above.
+
 ## Data Sharing
 
 We do not:
