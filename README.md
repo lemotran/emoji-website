@@ -42,3 +42,7 @@ Transform ideas, selfies, and existing emojis into unique creations! Xmoji combi
 Whether you're enhancing conversations, creating reaction memes, or building a personal emoji brand, Xmoji puts professional-grade tools in your pocket. Join thousands of creators who choose Xmoji for next-level digital expression.
 
 Download now and start mixing! 🚀✨
+
+---
+### Lemo Studio
+Contact us: info@lemo.studio
